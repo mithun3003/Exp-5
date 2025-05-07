@@ -32,12 +32,12 @@ To create Student Enrollment System software that will meet the needs of the app
 
 ## SEQUENCE DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/1225377d-4d31-467f-bfd2-97dc2bcd51bf)
-
+![image](https://github.com/user-attachments/assets/90e7724a-3ca0-4e51-b5b3-3f5ca125ee64)
 
 ## USE CASE DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/b07ff530-6929-40c1-b822-f6b6751575b7)
+![image](https://github.com/user-attachments/assets/9212273f-39b8-434b-a7bc-dff80a78360f)
+
 
 
 # RESULT:
