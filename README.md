@@ -17,8 +17,7 @@ To create Student Enrollment System software that will meet the needs of the app
 
 ## CLASS DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/7c4524a5-ad90-4b37-a47d-63071839e596)
-
+![image](https://github.com/user-attachments/assets/720648ea-39b6-4f02-9905-d7ebf63b8bca)
 
 ## COMMUNICATION DIAGRAM:
 
